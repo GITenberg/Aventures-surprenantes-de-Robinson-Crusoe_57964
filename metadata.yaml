@@ -1,5 +1,5 @@
 _repo: Aventures-surprenantes-de-Robinson-Crusoe_57964
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Paget, Walter
@@ -10,12 +10,17 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '9756'
     url: http://www.gutenberg.org/2009/agents/9756
+covers:
+- cover_type: archival
+  image_path: 57964-h/images/cover.jpg
 creator:
   author:
     agent_name: Defoë, Daniel
     gutenberg_agent_id: '49713'
     url: http://www.gutenberg.org/2009/agents/49713
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57964#Aventures-surprenantes-de-Robinson-Crusoe
 gutenberg_issued: '2018-09-24'
 gutenberg_type: Text
 identifiers:
